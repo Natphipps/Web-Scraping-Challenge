@@ -40,7 +40,7 @@ I completed the following steps to produce deliverable 2:
   3.) What is the average low temperature by month?
   
   - bar chart visual:
-  - 
+    
   ![mars_temp_img](https://github.com/Natphipps/Web-Scraping-Challenge/assets/130694752/234cd3b0-0976-47ae-af98-55903ef8dae8)
 
   4.) What are the coldest and the warmest months on Mars (at the location of Curiosity)?
