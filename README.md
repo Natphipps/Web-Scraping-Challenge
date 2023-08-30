@@ -61,7 +61,7 @@ I completed the following steps to produce deliverable 2:
     
       ![image](https://github.com/Natphipps/Web-Scraping-Challenge/assets/130694752/81a66628-57da-4114-8a08-1a3784d12eb6)
 
-- Lastly, I explorted the created dataframe to a csv. The header explanation is as follows:
+- Lastly, I exported the created dataframe to a csv. The header explanation is as follows:
 
   -  id: the identification number of a single transmission from the Curiosity rover
   -  terrestrial_date: the date on Earth
