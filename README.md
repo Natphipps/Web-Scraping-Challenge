@@ -34,20 +34,31 @@ I completed the following steps to produce deliverable 2:
 - Analysed the dataset to answer the following questions:
 
   1.) How many months exist on Mars?
+  
   2.) How many Martian (and not Earth) days worth of data exist in the scraped dataset?
+  
   3.) What is the average low temperature by month?
+  
   - bar chart visual:
+  - 
   ![mars_temp_img](https://github.com/Natphipps/Web-Scraping-Challenge/assets/130694752/234cd3b0-0976-47ae-af98-55903ef8dae8)
 
   4.) What are the coldest and the warmest months on Mars (at the location of Curiosity)?
+  
    - bar chart visual:
+     
 ![image](https://github.com/Natphipps/Web-Scraping-Challenge/assets/130694752/b3c0188d-5d2f-4e10-9053-482a6d3e8b50)
 
   4.) Find the average pressure by Martian month.
+  
   - bar chart visual:
+    
     ![image](https://github.com/Natphipps/Web-Scraping-Challenge/assets/130694752/81442fd4-ab96-40f8-849e-c1b6d6bb80a4)
+    
   5.) About how many terrestrial (Earth) days exist in a Martian year?
+  
   - line plot visual:
+    
       ![image](https://github.com/Natphipps/Web-Scraping-Challenge/assets/130694752/81a66628-57da-4114-8a08-1a3784d12eb6)
 
 - Lastly, I explorted the created dataframe to a csv. The header explanation is as follows:
